@@ -1,0 +1,11 @@
+
+Q-3)Square and Sum
+#include <stdio.h>
+
+int main()
+{
+ int one = 10, two = 20, three=30,a,b,c;
+ a=one*one; b=two*two; c=three*three;
+ printf("%d",a+b+c);
+    return 0;
+}
